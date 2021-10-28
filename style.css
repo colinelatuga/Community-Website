@@ -64,6 +64,11 @@ body {
 {
     padding-top: 20px;
 }
+.about-mayor img
+{
+    height: 200px;
+    padding: right 30px;
+}
 #abouthistory
 {
     padding-top: 100px;
